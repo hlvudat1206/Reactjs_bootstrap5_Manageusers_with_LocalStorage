@@ -1,4 +1,4 @@
-# React JS and Bootstrap 5 combine with LocalStorage (Practing Project)
+# React JS and Bootstrap 5 combine with LocalStorage (Practicing Project)
 
 COPYRIGHT BY HUYNH LE VU DAT
 
