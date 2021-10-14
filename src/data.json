@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name": "iron Man",
+        "phone": "090",
+        "Quyen": "1"
+    },
+    {
+        "id":2,
+        "name": "Spider Man",
+        "phone": "098",
+        "Quyen": "2"
+    },
+    {
+        "id":3,
+        "name": "Cat",
+        "phone": "092",
+        "Quyen": "1"
+    },
+    {
+        "id":4,
+        "name": "Dog",
+        "phone": "0900",
+        "Quyen": "3"
+    },
+    {
+        "id":5,
+        "name": "Mouse",
+        "phone": "091",
+        "Quyen": "1"
+    },
+    {
+        "id":6,
+        "name": "Chicken",
+        "phone": "151",
+        "Quyen": "2"
+    }
+]
